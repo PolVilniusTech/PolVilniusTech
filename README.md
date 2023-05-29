@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Let us discuss about any of these Repositories in single discussion forum at [github.com/PolVilniusTech/bricks](https://github.com/PolVilniusTech/bricks/discussions).
+p.s.
+One is good enough.
 <!--
 **PolVilniusTech/PolVilniusTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
